@@ -1,3 +1,4 @@
+package basics;
 //Program to check temperature and print appropriate message
 
 import java.util.Scanner;

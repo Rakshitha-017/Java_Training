@@ -1,3 +1,4 @@
+package basics;
 //Program to check whether the given alphabet is vowel or not a vowel using switch and if-else statement
 
 import java.util.*;

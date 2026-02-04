@@ -1,3 +1,4 @@
+package basics;
 //Program to write all factors of given number
 
 import java.util.*;

@@ -1,3 +1,4 @@
+package basics;
 //Write a program to check whether the given character is lower case or upper case
 import java.util.*;
 public class P2{
